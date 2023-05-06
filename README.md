@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spidycoder
 - 👀 I’m interested in Comptetive Programming and Web-Development(full stack)
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA and Web-D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:kumaraditya767718@gmail.com
 
