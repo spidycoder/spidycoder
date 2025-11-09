@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @spidycoder
-- 👀 I’m interested in Comptetive Programming and Web-Development(full stack)
-- 🌱 I’m currently learning DSA and Web-D
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:kumaraditya767718@gmail.com
-
-<!---
-spidycoder/spidycoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full stack developer and competitive programmer who loves building scalable web apps and solving challenging problems through clean, efficient code 🚀
+📩 Reach me at: kumaraditya767718@gmail.com
